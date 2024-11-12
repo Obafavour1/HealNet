@@ -15,7 +15,7 @@ const Header = () => {
   return (
     <header id='home' className='pt-4 md:pt-10'>
       <Navbar/>
-      <div className='mt-6 max-sm:flex-col-reverse md:mt-10 flex gap-[100px] w-[100%] justify-between'>
+      <div className='mt-10 max-sm:flex-col-reverse md:mt-10 flex gap-[100px] w-[100%] justify-between'>
         <div className='mt-5 md:mt-10  md:w-[530px]'>
           <h2 className='text-[35px]  lg:text-[54px] leading-[36px] lg:leading-[58px] font-semibold mb-5 text-neutral-900 '>Your <span className=' bg-gradient-to-r from-blues-500 to-blues-50 text-transparent bg-clip-text'>trusted partner</span> in digital healthcare.</h2>
           <p className='text-justify text-blacks-100'>
