@@ -14,21 +14,21 @@ const Roadmap = () => {
             <div className='flex flex-col gap-5 '>
                 {/* <div>1</div> */}
                 <div className='w-[300px]'>
-                    <h4 className='text-[24px] font-medium'>Create Your Profile</h4>
+                    <h4 className='text-[24px] text-blues-150 font-medium'>Create Your Profile</h4>
                     <p className='text-neutral-700 text-[16px]'>
                         Sign up and fill in your medical history securely. Setting up your profile this way would 
                         ensure that you stay up-to-date with your medical processes.
                     </p>
                 </div>
                 <div className='w-[300px]'>
-                    <h4 className='text-[24px] font-medium'>Choose Your Service</h4>
+                    <h4 className='text-[24px] text-blues-150 font-medium'>Choose Your Service</h4>
                     <p className='text-neutral-700 text-[16px]'>
                         Select from our range of services and book a consultation. Booking a
                         consultation with HealNet is fairly simple and straight-forward.
                     </p>
                 </div>
                 <div className='w-[300px]'>
-                    <h4 className='text-[24px] font-medium'>Meet Your Doctor</h4>
+                    <h4 className='text-[24px] text-blues-150 font-medium'>Meet Your Doctor</h4>
                     <p className='text-neutral-700'>
                         Have a virtual consultation with one of our certified specialists, or go for a physical 
                         visit to the doctor in case you opted for a physical check-up.
